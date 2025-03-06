@@ -7,3 +7,10 @@
 
 ==npm==
 npm install express --save (package.json自動寫入)
+
+==關於寫測試==
+- 用 jest 去寫，再用 GitHub Action 去跑
+
+==middleware==
+- https://learn.microsoft.com/zh-tw/aspnet/core/fundamentals/middleware/?view=aspnetcore-9.0
+- https://expressjs.com/zh-tw/guide/using-middleware.html
